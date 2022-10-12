@@ -6,3 +6,5 @@ make an analysis of best sellers, trends and reviews. These files are:
 1. Getting databases. This notebook uses MercadoLibre API to get information about the smartphone products offered in each country.
 2. Analysis Colombia.
 3. Analysis Mexico.
+
+Note: Some column names are in Spanish because this project was developed in that language.
